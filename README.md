@@ -4,13 +4,12 @@
           <li>Data from:
                     <ul><li> https://www.carcomplaints.com/</li></ul>
           </li>
-          
           <li>Environment:
                     <ul>
                               <li>Anaconda 4.8.0</li>
                               <li>https://www.anaconda.com/</li>
                     </ul>
-           </li>
+          </li>
            
 </ul>
           
