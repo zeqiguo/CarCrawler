@@ -14,21 +14,10 @@
           <li>Developmend tool:
                     <ul>
                               <li>Jupyter Lab</li>
+                              <li>Jupyter Lab is </li>
                               <li>https://jupyterlab.readthedocs.io/en/stable/</li>
                     </ul>
                     
            
 </ul>
           
-
-
-                    
-       
-          
-
-          
-
-Data crawled: 
-          1st: 
-<br>
-          2nd: 
