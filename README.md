@@ -6,18 +6,17 @@
           </li>
           
           <li>Environment:
-                    <ul>
-                              <li>Anaconda 4.8.0</li>
-                              <li>https://www.anaconda.com/<li>
-                    </ul>
+
           </li>
 </ul>
           
 
 
-
+                    <ul>
+                              <li>Anaconda 4.8.0</li>
+                              <li>https://www.anaconda.com/<li>
+                    </ul>
           
-          https://www.anaconda.com/
           
 Download and install instruction:<br>
           https://docs.anaconda.com/anaconda/install/windows/
