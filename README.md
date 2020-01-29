@@ -2,11 +2,11 @@
 
 Data from: https://www.carcomplaints.com/
 
-Environment:
+Environment:<br>
           Anaconda 4.8.0
           https://www.anaconda.com/
           
-Download and install instruction:
+Download and install instruction:<br>
           https://docs.anaconda.com/anaconda/install/windows/
           
 
