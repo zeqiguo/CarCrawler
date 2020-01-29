@@ -7,8 +7,8 @@
           
           <li>Environment:
                     <ul>
-                         <li>Anaconda 4.8.0</li>
-                         <li>https://www.anaconda.com/<li>
+                    <li>Anaconda 4.8.0</li>
+                    <li>https://www.anaconda.com/<li>
                     </ul>
           </li>
 </ul>
