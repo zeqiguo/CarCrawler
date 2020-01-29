@@ -15,6 +15,7 @@
                     <ul>
                               <li>Jupyter Lab</li>
                               <li>https://jupyterlab.readthedocs.io/en/stable/</li>
+                              <li>After install anaconda, Jupyter Lab is already built in, you just need input jupyterlab in                                              cmd/Terminal to call it.</li>
                     </ul>
                     
            
