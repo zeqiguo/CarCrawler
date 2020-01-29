@@ -6,10 +6,16 @@
           </li>
           <li>Environment:
                     <ol>
-                              <li>Anaconda 4.8.0</li>
+                              <li>Version: Anaconda 4.8.0</li>
                               <li>Install instruction: https://docs.anaconda.com/anaconda/install/windows/</li>
                     </ol>
           </li>
+          <li>Developmend tool:
+                    <ul>
+                              <li>Jupyter Lab</li>
+                              <li>https://jupyterlab.readthedocs.io/en/stable/</li>
+                    </ul>
+                    
            
 </ul>
           
@@ -18,9 +24,7 @@
                     
        
           
-          
-Download and install instruction:<br>
-          https://docs.anaconda.com/anaconda/install/windows/
+
           
 
 Data crawled: 
