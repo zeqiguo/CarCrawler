@@ -7,7 +7,8 @@
           <li>Environment:
                     <ol>
                               <li>Version: Anaconda 4.8.0</li>
-                              <li>Install instruction: https://docs.anaconda.com/anaconda/install/windows/</li>
+                              <li>Install instruction for Windows: https://docs.anaconda.com/anaconda/install/windows/</li>
+                              <li>Install instruction for Mac: https://docs.anaconda.com/anaconda/install/mac-os/<>
                     </ol>
           </li>
           <li>Developmend tool:
