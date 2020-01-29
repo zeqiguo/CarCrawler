@@ -5,10 +5,10 @@
                     <ul><li> https://www.carcomplaints.com/</li></ul>
           </li>
           <li>Environment:
-                    <ul>
+                    <ol>
                               <li>Anaconda 4.8.0</li>
-                              <li>https://www.anaconda.com/</li>
-                    </ul>
+                              <li>https://docs.anaconda.com/anaconda/install/windows/</li>
+                    </ol>
           </li>
            
 </ul>
