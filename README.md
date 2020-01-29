@@ -7,7 +7,7 @@
           <li>Environment:
                     <ol>
                               <li>Anaconda 4.8.0</li>
-                              <li>https://docs.anaconda.com/anaconda/install/windows/</li>
+                              <li>Install instruction: https://docs.anaconda.com/anaconda/install/windows/</li>
                     </ol>
           </li>
            
