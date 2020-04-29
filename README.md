@@ -16,16 +16,16 @@
 ------------------
 
 ## Data Description:
-   - **Overall**:
+   - **Overall**:</br>
        Each row in the dataset is a specific model of a car, include information of the model and complais.
-   - **Make**:
+   - **Make**:</br>
        Make name of this car
-   - **Model**:
+   - **Model**:</br>
        Model name of this car
-   - **Year**:
+   - **Year**:</br>
        Year of this model 
        like Honda Accord 2016
-   - **Rest of all**:
+   - **Rest of all**:</br>
        They are all categories of complains, include 20 kinds. Each cell in the row include all complains of this category crawled from CarComplains.com except those filled 0, that means there are no complains about the specific category. 
        1. AC_heater
        2. electrical
