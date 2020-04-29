@@ -26,7 +26,7 @@
        Year of this model 
        like Honda Accord 2016
    - **Rest of all**:
-       They are all categories of complains, include 20 kinds, they are: 
+       They are all categories of complains, include 20 kinds. Each cell in the row include all complains of this category crawled from CarComplains.com except those filled 0, that means there are no complains about the specific category. 
        1. AC_heater
        2. electrical
        3. cooling_system
@@ -48,4 +48,4 @@
        19. exhaust_system
        20. lights
        
-       each cell in the row include all complains of this category crawled from CarComplains.com except those filled 0, that means there are no complains about the specific category.
+
