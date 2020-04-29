@@ -16,16 +16,16 @@
 ------------------
 
 ## Data Description:
-   - *Overall*:
+   - **Overall**:
        Each row in the dataset is a specific model of a car, include information of the model and complais.
-   - *Make*:
+   - **Make**:
        Make name of this car
-   - *Model*:
+   - **Model**:
        Model name of this car
-   - *Year*:
+   - **Year**:
        Year of this model 
        like Honda Accord 2016
-   - *Rest of all*:
+   - **Rest of all**:
        They are all categories of complains, include 20 kinds, they are: 
        1. AC_heater
        2. electrical
