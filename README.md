@@ -47,3 +47,5 @@
        18. accessories-exterior
        19. exhaust_system
        20. lights
+       
+       each cell in the row include all complains of this category crawled from CarComplains.com except those filled 0, that means there are no complains about the specific category.
