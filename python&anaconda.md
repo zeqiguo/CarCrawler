@@ -18,7 +18,7 @@
 
 ## Jupyter Lab
 - A built in web-based interactive computational environment in Anconda.
-- As long as installed Anaconda, tap `jupyterlab` in cmd/terminal to active it.
+- As long as installed Anaconda, tap `jupyter lab` in cmd/terminal to active it.
 
 ## Additional Libraries
 - Open cmd/Terminal and copy paste
@@ -26,6 +26,19 @@
 - if you more like .py file, use the command `jupyter nbconvert --to script [filename]` 
 - Highly recommend you to use Pep8 layout: `pip install autopep8` `autopep8 [filename]`
 
-## Source Code and Data:
-- GIthub: [https://github.com/zeqiguo/CarCrawler](https://github.com/zeqiguo/CarCrawler)
-- Crawled Data: [https://drive.google.com/open?id=12dtu1CinQHcw5XZT-DSmVx90hJxzkNpL](https://drive.google.com/open?id=12dtu1CinQHcw5XZT-DSmVx90hJxzkNpL)
+## Data:
+- CSV file
+- [Data](https://s2.smu.edu/~zeqig/original_review.zip)
+- feature name:
+	1. make: which make the review from.
+	2. type: original vihicle type information, include id_make_model. 3. title: what is the topic of this review.
+	4. author: author name.
+	5. date: when the author leave this review
+
+## Before get started:
+- Know how to use [Pandas](https://pandas.pydata.org/)
+- Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation 	tool, built on top of the Python programming language.
+- Pandas have variable of APIs, which can help you read data from different formats, csv, json, 	HTML, etc..
+- The most normal one you gonna use is [DataFrame](https://pandas.pydata.org/docs/reference/frame.html)
+- Remember always read the README file before get started.
+- **Stack Overflow** is our friend, first thing you need to do when your have a problem is figure it out with [Stack Overflow](https://stackoverflow.com/)
