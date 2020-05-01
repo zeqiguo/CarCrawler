@@ -51,5 +51,5 @@
 ----------
 Number of complains about Make Model Year:
 
-the `counts.cxv` file in the repo
+the `counts.csv` file in the repo
 
