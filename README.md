@@ -49,7 +49,11 @@
        20. lights
  
 ----------
-Number of complains about Make Model Year:
+- Number of complains about Make Model Year:
 
-the `counts.csv` file in the repo
+          the `counts_all_info.csv` file in the repo
+          
+- Number of complains about Make:
+
+          the `counts_make.csv` file in the repo
 
